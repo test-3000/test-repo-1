@@ -1,1 +1,3 @@
 this is another file from branch1.
+
+this is second line from brnach2.
